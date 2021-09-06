@@ -18,13 +18,13 @@ Mozilla Public License for more details.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/agentnova/SubtitleTranslator-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yukawa-Beats/SubtitleTranslator-Bot)
 
 
 #### The Legacy Way
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/agentnova/SubtitleTranslator-Bot
+git clone https://github.com/Yukawa-Beats/SubtitleTranslator-Bot
 
 cd SubtitleTranslator-Bot
 
