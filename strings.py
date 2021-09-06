@@ -3,7 +3,7 @@ from creds import cred
 
 welcome = "`Give me the subtitle file you want to translate..`"
 about = (
-    "`Bot`            : [YB SubtransBot](t.me/YB_SUB_TRANS_BOT)\n`Creator :` [YUKAWA BEATS](t.me/ybdemochannel)\n`Language:` ["
+    "`Bot`            : [YB Sub Trans Bot](t.me/YB_SUB_TRANS_BOT)\n`Creator :` [YUKAWA BEATS](t.me/ybdemochannel)\n`Language:` ["
     "Python3](https://python.org)\n`Library :` [Pyrogram](https://docs.pyrogram.org/) \n`Server  :` [Heroku]("
     "https://herokuapp.com/) "
 )
